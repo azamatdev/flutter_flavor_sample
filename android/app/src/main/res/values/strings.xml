@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Debug App Name</string>
+    <string name="app_name_release_client">Client Release</string>
+    <string name="app_name_staging_client">Client Staging</string>
+    <string name="app_name_debug_client">Client Debug</string>
+    <string name="app_name_release_business">Business Release</string>
+    <string name="app_name_staging_business">Business Staging</string>
+    <string name="app_name_debug_business">Business Debug</string>
+</resources>
