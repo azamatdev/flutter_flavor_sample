@@ -4,6 +4,6 @@ import 'app/flavor_model.dart';
 import 'main_common.dart';
 
 void main() {
-  Config.appFlavor = FlavorModel(flavor: Flavor.BUSINESS, isRelease: !kReleaseMode);
+  Config.appFlavor = FlavorModel(flavor: Flavor.BUSINESS, isRelease: kReleaseMode);
   runMain();
 }
